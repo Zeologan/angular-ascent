@@ -1,0 +1,68 @@
+{
+  "recipe": [
+    {
+      "id": "f25b",
+      "name": "Colorful vegan salad",
+      "recipe": "Chop bell peppers, cucumbers, and cherry tomatoes, and mix with mixed greens and diced avocado. Whisk together olive oil, lemon juice, salt, and pepper for a dressing. Drizzle over the salad and toss gently. Top with sunflower seeds for added crunch. Optional: add sliced radishes or olives. Serve immediately to enjoy a fresh, vibrant meal packed with nutrients.",
+      "image": "/assets/images/Food1.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "mins": 28
+    },
+    {
+      "id": "4d8e",
+      "name": "Tofu Poke",
+      "recipe": "Marinate cubed tofu in soy sauce, sesame oil, and grated ginger for at least 10 minutes. Serve over steamed rice, topped with avocado slices, edamame, and cucumber. Sprinkle with seaweed, sesame seeds, and green onions, then drizzle with spicy mayo. Garnish with pickled ginger if desired for a refreshing and savory poke bowl.",
+      "image": "/assets/images/Food2.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1600335895229-6e75511892c8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "mins": 22
+    },
+    {
+      "id": "ff71",
+      "name": "Garden Fresh Delight",
+      "recipe": "Combine lettuce, tomatoes, carrots, and radishes, adding sliced cucumbers, bell peppers, and corn. Toss in a bowl with a dressing of balsamic vinegar, olive oil, salt, and pepper. Garnish with croutons and crumbled feta. Optional: include sliced olives or nuts. Serve immediately for a crisp, flavorful salad.",
+      "image": "/assets/images/Food3.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=1884&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "mins": 20
+    },
+    {
+      "id": "7fc0",
+      "name": "Poori Bread",
+      "recipe": "Mash boiled potatoes with cumin seeds, turmeric, and salt. Prepare a dough from flour, water, and a pinch of salt, and roll into small circles. Deep fry until golden and puffed. Serve hot pooris with spiced potato curry. Garnish with fresh cilantro and a squeeze of lemon. Optional: add yogurt or pickle for extra flavor.",
+      "image": "/assets/images/Food4.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1643892467625-65df6a500524?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "mins": 22
+    },
+    {
+      "id": "4818",
+      "name": "Pizza Burst Chesses",
+      "recipe": "Roll pizza dough, spread tomato sauce, and top with mozzarella, cheddar, and Parmesan. Add toppings like bell peppers, mushrooms, or chicken. Bake at 475°F (245°C) for 10-12 minutes until golden. Cool slightly before slicing. Optional: garnish with fresh basil or a drizzle of olive oil for a cheesy, homemade pizza.",
+      "image": "/assets/images/Food5.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "mins": 25
+    },
+    {
+      "id": "2625",
+      "name": "Delicious cooked fish meal",
+      "recipe": "Season fish fillets with lemon juice, garlic, and herbs. Pan-fry or grill until golden and cooked through. Serve with steamed vegetables like broccoli or carrots and a side of rice or quinoa. Garnish with lemon juice and herbs. Optional: pair with a light salad or roasted potatoes for a complete, nutritious meal.",
+      "image": "/assets/images/Food6.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1499125562588-29fb8a56b5d5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "mins": 18
+    },
+    {
+      "id": "bc66",
+      "name": "Delicious taco on plate",
+      "recipe": "Warm tortillas and fill with seasoned chicken or beans. Layer with shredded lettuce, tomatoes, and cheese. Top with sour cream, salsa, and guacamole. Garnish with cilantro and lime juice. Optional: add jalapeños or pickled onions. Serve with Mexican rice or black beans for a customizable, flavorful taco meal.",
+      "image": "/assets/images/Food7.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1713667417761-408ec68c3af1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "mins": 26
+    },
+    {
+      "id": "401c",
+      "name": "Stir-fried noodle, chicken and basil",
+      "recipe": "Stir-fry sliced chicken with garlic and chili flakes. Add cooked noodles and toss with soy and oyster sauces. Incorporate fresh basil leaves and stir until fragrant. Add water if needed to loosen the sauce. Serve hot with sesame seeds. Optional: include bell peppers or snap peas for extra crunch. Enjoy a flavorful, aromatic dish.",
+      "image": "/assets/images/Food8.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1565976469553-00d571cf97b9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "mins": 27
+    }
+  ]
+}

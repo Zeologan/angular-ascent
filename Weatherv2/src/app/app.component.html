@@ -1,0 +1,53 @@
+<!-- Navbar -->
+<nav>
+  <h2>WeatherWidget</h2>
+  <div class="toggle">
+    <input type="text" [(ngModel)]="date"  placeholder="Write Your Date . . . . "> <!-- 2 Way Data Binding  -->
+    <i class="fa-solid fa-moon" (click)="changeTheme()"></i>   <!-- Event Binding  -->
+  </div>
+</nav>
+
+
+<!-- Weather Section  -->
+<section>
+  <div class="widget-box">
+    <!-- 1st Div  -->
+    <div class="widget-widget " style="background-image: linear-gradient(120deg, #309EFF 0%, #7FC8FD 100%);">
+      <p>{{weatherStatus[0]}}</p> <!-- String Interpolation  -->
+      <div class="widget">
+        <h1>25<sup>&deg;</sup></h1>
+        <div class="widget-info">
+          <p>{{date}}</p>
+          <p><i class="fa-solid fa-location-dot"></i>San Fransico</p>
+        </div>
+        <img [src]="weatherImg[0]" alt="sun">  <!-- Property Binding  -->
+      </div>
+    </div>
+
+    <!-- 2nd Div  -->
+    <div class="widget-widget" style="background-image: linear-gradient(135deg, #2F63F5 0%, #B783DB 100%);">
+      <p>{{weatherStatus[1]}}</p>
+      <div class="widget">
+        <h1>22<sup>&deg;</sup></h1>
+        <div class="widget-info">
+          <p>{{date}}</p>
+          <p><i class="fa-solid fa-location-dot"></i>India</p>
+        </div>
+        <img [src]="weatherImg[1]" alt="storm">   <!-- Property Binding  -->
+      </div>
+    </div>
+
+    <!-- 3rd Div  -->
+    <div class="widget-widget" style="background-image: linear-gradient(135deg, #05BFA4 0%, #8CFF9F 100%);">
+      <p>{{weatherStatus[2]}}</p>
+      <div class="widget">
+        <h1>15<sup>&deg;</sup></h1>
+        <div class="widget-info">
+          <p>{{date}}</p>
+          <p><i class="fa-solid fa-location-dot"></i>Paris</p>
+        </div>
+        <img [src]="weatherImg[2]" alt="weather">   <!-- Property Binding  -->
+      </div>
+    </div>
+  </div>
+</section>

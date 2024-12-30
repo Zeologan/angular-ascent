@@ -1,0 +1,19 @@
+<section>
+    <h3>All Blog Posts</h3>
+    <!-- All Blog Section  -->
+    <div class="allblog">
+
+        <div class="allblog-card" *ngFor="let item of blog">
+            <div class="img-box"><img src={{item.image}} alt=""></div>
+            <div class="blog-info">
+                <p>{{item.author}}</p>
+                <h4>{{item.btitle}}</h4>
+                <p>{{item.desc}}</p>
+                <div class="btn-container">
+                    <div class="btn-shell" (click)="onSubscribe()">Research</div>
+                    <div class="btn-shell" (click)="onSubscribe()">Read More..</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

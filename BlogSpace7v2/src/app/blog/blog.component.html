@@ -1,0 +1,38 @@
+<section class="recent-section">
+    <h3>Recent Blog Posts</h3>
+
+    <!-- Big Blog Section  -->
+    <div class="recent-blog">
+        <!-- Use *ngFor with the slice pipe to display only one blog from the list. -->
+        <div class="main-blog" *ngFor="let item of blog | slice:0:1">
+            <div class="big-img"><img src={{item.image}} alt=""></div>
+            <div class="blog-info">
+                <p>{{item.author}}</p>
+                <h4>{{item.btitle}}</h4>
+                <p>{{item.desc}}</p>
+                <div class="btn-container">
+                    <div class="btn-shell" (click)="onSubscribe()">Research</div>
+                    <div class="btn-shell" (click)="onSubscribe()">Read More..</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mini Blog Section  -->
+        <div class="sub-blog">
+        <!-- Use *ngFor with the slice pipe to display only one blog from the list. -->
+            <div class="mini-blog" *ngFor="let item of blog | slice:0:3">
+                <div class="img-shell"><img src={{item.image}} alt=""></div>
+                <div class="blog-info">
+                    <p>{{item.author}}</p>
+                    <h5>{{item.btitle}}</h5>
+                    <p>{{item.desc}}</p>
+                    <div class="btn-container">
+                        <div class="btn-shell" (click)="onSubscribe()">Research</div>
+                        <div class="btn-shell" (click)="onSubscribe()">Read More..</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
