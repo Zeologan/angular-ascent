@@ -17,6 +17,6 @@
  
 <h6>DishDiaries</h6> 
 <h6>A recipe book that integrates RxJS, routing, reactive forms, and signals for a feature-rich user experience.</h6> 
-<h6>Live : https://sunny-choux-b7964a.netlify.app/</h6> 
+<h6>Live : https://dishdairise.netlify.app/</h6> 
 
 <h6>Feel free to explore the code, try out the live demos, and share your feedback. Contributions and suggestions are always welcome! 😊</h6>
