@@ -5,15 +5,15 @@
 <h1>Featured Projects: </h1>
 <h6>WeatherWise</h6> 
 <h6>A sleek weather widget UI implementing data binding concepts. </h6> 
-<h6>Live : https://meek-bubblegum-16c94b.netlify.app/</h6>
+<h6>Live : https://weatherwidgets.netlify.app/</h6>
 
 <h6>DashSync</h6> 
 <h6>An admin dashboard covering directives and pipes for dynamic UI updates. </h6> 
-<h6>Live : https://gentle-melba-08f337.netlify.app/ </h6>
+<h6>Live : https://dashsync.netlify.app/ </h6>
 
 <h6>BlogSpace</h6> 
 <h6>A blog page showcasing parent-child communication with `@Input` and `@Output`, along with services for data sharing.</h6> 
-<h6>Live : https://celebrated-melba-c9cda5.netlify.app/</h6>
+<h6>Live : https://blog-spaces.netlify.app/</h6>
  
 <h6>DishDiaries</h6> 
 <h6>A recipe book that integrates RxJS, routing, reactive forms, and signals for a feature-rich user experience.</h6> 
